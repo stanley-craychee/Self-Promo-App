@@ -33,10 +33,11 @@ Weather conditions presented:
 
 ------------Screenshots
 
-![image](https://user-images.githubusercontent.com/108777490/177670298-f7dc8458-3004-4b50-860b-0507a970e6b2.png)
-![image](https://user-images.githubusercontent.com/108777490/177670377-1cac3e65-366b-49b9-81ef-7eeb7c60059d.png)
-![image](https://user-images.githubusercontent.com/108777490/177670434-ba7adb23-c2cd-4992-aca1-7735b59ca414.png)
-![image](https://user-images.githubusercontent.com/108777490/177670618-4c35f3df-2682-407c-9d45-6ece45390708.png)
+![image](https://user-images.githubusercontent.com/108777490/177685420-f6945385-4dc1-4756-968b-51d30041d722.png)
+![image](https://user-images.githubusercontent.com/108777490/177685543-96adf6a7-06de-46df-99b0-43828eaa57e2.png)
+![image](https://user-images.githubusercontent.com/108777490/177685564-3a2d5118-df02-45f4-9b6a-027f79884978.png)
+![image](https://user-images.githubusercontent.com/108777490/177685608-34049876-8227-4e69-af58-64f64629d759.png)
+
 
 ------------Setup & Install
 1. Open the project in Android Studio
